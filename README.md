@@ -4,6 +4,7 @@ The following is written in Japanese:
 
 x.mdlファイルは、Ventana Systems社Vensim用SDモデルファイルである。
 以下のx種類の.mdlファイルは、無償ソフトウェアのVensim PLEを利用して実行できる。
+
 図7.1 水平ばね振り子のSDモデル -> Spring_pendulum.mdl
 図7.5 スマホ下取りのSDモデル -> readme_j_Smartphone_tradein.mdl
 図7.7 妖怪ウオッチ事例メディア展開モデル（パイプラインモデリング）-> YokaiWatch_j.mdl
