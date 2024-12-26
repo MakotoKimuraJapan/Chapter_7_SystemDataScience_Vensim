@@ -22,4 +22,5 @@ x.mdlファイルは、Ventana Systems社Vensim用SDモデルファイルであ�
 図7.7 妖怪ウオッチ事例メディア展開モデル（パイプラインモデリング）-> YokaiWatch_j.mdl
 
 図7.9　妖怪ウオッチ事例メディア展開モデル（再帰的フローモデリング）-> YokaiWatch_j_RF.mdl
-![Chapter_7_Fig_7_9](https://github.com/user-attachments/assets/a8e8f86d-d9a3-410b-8be3-0a8432070cbe)
+
+![Chapter_7_Fig_7_9](https://github.com/user-attachments/assets/e3b27196-3efa-4ea3-9b40-81d504a11381)
